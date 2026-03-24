@@ -1,5 +1,5 @@
 -- LOAD UI LIBRARY
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Feluan/teste-script/main/hab.luaa"))()
 
 -- WINDOW
 local Window = Library.CreateLib("Luanzao Hub", "DarkTheme")
